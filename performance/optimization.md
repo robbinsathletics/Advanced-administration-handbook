@@ -2,7 +2,7 @@
 
 Whether you run a high traffic WordPress installation or a small blog on a low cost shared host, you should optimize WordPress and your server to run as efficiently as possible. This article provides a broad overview of WordPress optimization, with specific recommended approaches. However, it's not a detailed technical explanation of each aspect.
 
-If you need a quick fix now, go straight to the Caching section, you'll get the biggest benefit for the smallest hassle there. If you want to get started on a more thorough optimization process immediately, go to [How to Improve Performance on WordPress](#how-to-improve-performance-in-wordpress).
+If you need a quick fix now, go straight to the Caching section, you'll get the biggest benefit for the smallest hassle there. If you want to get started on a more thorough optimization process immediately, go to [How to Improve Performance on WordPress](#how-to-improve-performance-on-wordpress).
 
 A broad overview of the topic of performance is included below in [Performance factors](#performance-factors) and [Performance testing tools](#performance-testing-tools). Many of the techniques discussed here also apply to WordPress Multisite (MU).
 
